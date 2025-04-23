@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatimah Jafari</h1>
 <h3 align="center">A Passionate Front_End Student From Afghanistan</h3>
-<img align="center" alt="coding" height="300" width="700" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxYzPTY3-7GAe3JBMqhPZkc_L3DByNDECCcPYeon0xqezLL37DIsujVExzeLnaMuUw62M&usqp=CAU">
+<img align="center" alt="coding" height="300" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxYzPTY3-7GAe3JBMqhPZkc_L3DByNDECCcPYeon0xqezLL37DIsujVExzeLnaMuUw62M&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimahjafari&label=Profile%20views&color=0e75b6&style=flat" alt="fatimahjafari" /> </p>
 
