@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatimah Jafari</h1>
 <h3 align="center">A Passionate Front_End Student From Afghanistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimahjafari&label=Profile%20views&color=0e75b6&style=flat" alt="fatimahjafari" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimahjafari" alt="fatimahjafari" /></a> </p>
-- <picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
