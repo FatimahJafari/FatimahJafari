@@ -4,6 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimahjafari&label=Profile%20views&color=0e75b6&style=flat" alt="fatimahjafari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimahjafari" alt="fatimahjafari" /></a> </p>
+- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <p align="left"> <a href="https://twitter.com/fatimahjafari" target="blank"><img src="https://img.shields.io/twitter/follow/fatimahjafari?logo=twitter&style=for-the-badge" alt="fatimahjafari" /></a> </p>
 
@@ -20,6 +25,7 @@
 - 📫 How to reach me **banoojafari6@gamil.com**
 
 - ⚡ Fun fact **I think I am funny😍**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
