@@ -25,10 +25,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fatimahjafari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatimahjafari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fatimah jafari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatimah jafari" height="30" width="40" /></a>
-<a href="https://fb.com/fatimah jafari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fatimah jafari" height="30" width="40" /></a>
-<a href="https://instagram.com/fatimah jafari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatimah jafari" height="30" width="40" /></a>
+<a href="https://github.com/FatimahJafari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatimahjafari" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/fatimah-jafari-4b59982a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatimah jafari" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1C1XqEiZH3/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fatimah jafari" height="30" width="40" /></a>
+<a href="https://www.instagram.com/i_am_fatimah1?igsh=MTRyd2sxMmtxNmpkNg%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatimah jafari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
