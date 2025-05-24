@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatimah Jafari</h1>
-<h3 align="center">A Passionate Front_End Student From Afghanistan</h3>
+<h3 align="center">A Passionate Computer Scinece Student</h3>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/fatimahjafari" target="blank"><img src="https://img.shields.io/twitter/follow/fatimahjafari?logo=twitter&style=for-the-badge" alt="fatimahjafari" /></a> </p>
 
-- 🔭 I’m currently working on **Code To Inspire Projects**
+- 🔭 I’m currently Studing Computer Science 
 
-- 🌱 I’m currently learning **Frontend Languages**
+- 🌱 I’m  learning **Frontend Languages in Code To Inspire**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
